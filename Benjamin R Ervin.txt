@@ -1,0 +1,14 @@
+December 1, 2015
+To: Professor Coyne
+From: Benjamin R Ervin
+Subject: Framework contribution 
+
+First, when I glanced upon the thirty-seven-page pdf file that accompanied the document, I was overwhelmed and unsure of how I could add to this.
+Upon closer reading of the text.tex file, I realized the file was in dire need of some editing. There were numerous run-on sentences combined with other grammatical errors. It appeared to me, that with time and students feeling the need to sound smart, the document had become very bloated with unneeded content that muddied the clarity of this document.
+  
+I attempted to improve the readability of the document by correcting these grammatical errors and rewording sentences to remove redundancy.  Also, I added a little grammatical flare.  Finally, I removed commas when in the instances where they were over used. I would have been remised, if I hadn’t gone through and added the oxford comma in places it was appropriate.  One cannot take on the task of technical writing and neglect the oxford comma.
+
+As a disclaimer, I was only able to correct half the document.  If I had realized from the beginning that this would be the arduous task, I would have solicited help from my other class mates. 
+
+Best Regards,
+Benjamin R Ervin
